@@ -1,0 +1,12 @@
+{
+  "name": "smr-platform",
+  "version": "0.0.1",
+  "description": "Social media Marketing Platform",
+  "repository": "git@.github.com:kiiiyo/smr-platform.git",
+  "author": "Kiiiyo <kiiiyo.jp@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "engines": {
+    "node": "14"
+  }
+}
