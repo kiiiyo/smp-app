@@ -8,5 +8,13 @@
   "private": true,
   "engines": {
     "node": "14"
+  },
+  "workspaces": [
+    "packages/client"
+  ],
+  "scripts": {
+    "client:start": "yarn workspace smr-platform-client run start",
+    "client:build": "yarn workspace smr-platform-client run build",
+    "client:test": "yarn workspace smr-platform-client run test"
   }
 }
