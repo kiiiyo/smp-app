@@ -2,6 +2,7 @@
   "name": "smr-platform-client",
   "version": "0.1.0",
   "private": true,
+  "license": "UNLICENSED",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
