@@ -27,6 +27,11 @@
     ]
   },
   "dependencies": {
+    "@emotion/css": "^11.7.1",
+    "@emotion/react": "^11.8.1",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.4.4",
+    "@mui/material": "^5.4.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
@@ -34,6 +39,8 @@
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
+    "@babel/preset-react": "^7.16.7",
+    "@emotion/babel-plugin": "^11.7.2",
     "@swc/core": "^1.2.147",
     "@swc/jest": "^0.2.20",
     "@testing-library/react": "^12.1.3",
