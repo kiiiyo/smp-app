@@ -3,7 +3,7 @@ const server = fastify({
   logger: true
 })
 
-const PORT = process.env.PORT || 3000
+const PORT = process.env.PORT || 3001
 
 server.get('/', async (request, reply) => {
   reply.type('application/json').code(200)
